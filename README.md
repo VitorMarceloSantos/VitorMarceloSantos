@@ -1,4 +1,4 @@
-## Oi me chamo Vitor Marcelo seja bem vindo ao meu perfil do GitHub ...
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Oi, me chamo Vitor.</h1>
 <div align="center">
   <a href="https://github.com/VitorMarceloSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorMarceloSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
