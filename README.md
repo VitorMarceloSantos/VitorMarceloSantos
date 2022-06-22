@@ -31,7 +31,7 @@
 	
  <div>
 	<h3 align="center">SoftSkills: em construção ...<h3>
-	<p align="center">Empatia, Reseliência, ...<p>
+	<p align="center">Empatia, Resiliência, ...<p>
 </div>
 		
 ##
