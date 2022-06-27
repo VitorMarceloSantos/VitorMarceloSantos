@@ -1,6 +1,7 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Oi, me chamo Vitor.</h1>
+<h1 align="center"><img src="https://github.com/VitorMarceloSantos/VitorMarceloSantos/blob/main/img/DisplayGit.gif" width="50px"></h1>
 
-<h3 align="center">Sou estudante Full Stack Web Developer na Trybe.</h3>
+<h3 align="center">Sou estudante Full Stack Web Developer na <img src="https://github.com/VitorMarceloSantos/VitorMarceloSantos/blob/main/img/logo_trybe.png" width="80px">.</h3>
+
 
 ##
 
