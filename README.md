@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/VitorMarceloSantos/VitorMarceloSantos/blob/main/img/DisplayGit.gif" width="500px"></h1>
+<h1 align="center"><img src="https://github.com/VitorMarceloSantos/VitorMarceloSantos/blob/main/img/DisplayGit.gif" width="700px"></h1>
 
 <h3 align="center">Sou estudante Full Stack Web Developer na <img src="https://github.com/VitorMarceloSantos/VitorMarceloSantos/blob/main/img/logo_trybe.png" width="80px">.</h3>
 
