@@ -26,7 +26,7 @@
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/VitorMarceloSantos/VitorMarceloSantos/main/img/iconTypescript.png">
+  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/VitorMarceloSantos/VitorMarceloSantos/main/img/iconTypescript.png">&nbsp;&nbsp;
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/VitorMarceloSantos/VitorMarceloSantos/main/img/nodeIcon.png">
 </div>
 	
